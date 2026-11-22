@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.pyc
+.env
+logs.txt
+.env.example
